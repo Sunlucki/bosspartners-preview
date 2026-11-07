@@ -1,0 +1,1 @@
+var e=`/assets/Albedo-B7JZhVf0.jpg`,t=`/assets/Normal-1eGUCtEd.jpg`,n=`/assets/Roughness-FEQPI5Gx.jpg`,r=`/assets/Height-BIyeqfD-.jpg`;export{e as i,n,t as r,r as t};

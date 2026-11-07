@@ -1,0 +1,1 @@
+function e(e,t){let n=Math.abs(Math.trunc(e));if(n===1)return t.one;let r=n%100;if(r>=12&&r<=14)return t.many;let i=n%10;return i>=2&&i<=4?t.few:t.many}function t(t,n,r,i){let a=n===`pl`?r:i;return`${t} ${n===`pl`?e(t,a):t===1?a.one:a.many}`}export{t};
